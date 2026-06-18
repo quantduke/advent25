@@ -10,3 +10,5 @@
     5) persistence
 
 back to work...
+
+[stars](https://adventofcode.com/2025/leaderboard/private/view/5351403?view_key=1646d75a)
