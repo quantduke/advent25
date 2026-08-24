@@ -8,6 +8,7 @@
     3) time complexity
     4) a picture says 1000 words
     5) persistence
+    6) there is more than one way to skin a cat
 
 back to work...
 
