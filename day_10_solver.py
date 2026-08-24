@@ -739,7 +739,7 @@ class Solver10():
 
         The final approach is a combination of:
             1) trivial operations on the system revealing the solution: sums, \
-            differences,
+            differences, reductions
             2) updating the solution vector bounds to converge to a solution
             3) use of HiGHS MIP solver (via SciPy wrapper), alongside an \
                 objective function and constraints to solve the system.
